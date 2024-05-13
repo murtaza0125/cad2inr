@@ -1,0 +1,28 @@
+.container {
+    background: #7b94f5;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid black;
+    text-align: center;
+    gap: 50px;
+  }
+
+  h1 {
+    color: rgb(36, 38, 181);
+    font-family: "Poetsen One", serif;
+    
+  }
+
+  .img {
+    border: 1px dotted rgb(136, 54, 54);
+    border-radius: 25%;
+    box-shadow: inset 0 0 5px 5px #5f65b0
+
+  }
+
+  h2 {
+    font-family: "Poetsen One", cursive;
+    color: rebeccapurple;
+  }
